@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+python-dotenv
+PyMuPDF
+sentence-transformers
+rank_bm25
